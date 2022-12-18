@@ -1,4 +1,4 @@
-# @Akshika-Munshi
+# [Akshika Munshi](https://github.com/Akshika-Munshi)
 - 👋 I'm a 1st year ELC engineering student , who is fasicnated with the world of Computer Science and yet bash commands, unsolocited python codes and holding up a conversation seem to scare me.  
 - 👀 I’m interested in ... basically, everything under and around the sun  , mostly in the tech nerd stuff like reverse engineering , creating cool looking websites ,quantum computing  3D modelling and animation , object rendering , creating music and lately , playing Bandit games .
 - 🌱 I’m currently learning ... more about everything ! Python , C , Competitive cooding , 
