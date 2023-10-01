@@ -1,5 +1,5 @@
 # [Akshika Munshi](https://github.com/Akshika-Munshi)
-- 👋 I'm a 1st year ELC engineering student , who is fasicnated with the world of Computer Science and yet bash commands, enigmatic algorithm and holding up conversations with strangers seem to scare me. 
+- 👋 I'm a 2nd year ELC engineering student , who is fasicnated with the world of Computer Science and yet bash commands, enigmatic algorithm and holding up conversations with strangers seem to scare me. 
  
 - I’m interested in ... basically, everything under and around the sun  , mostly in the nerd stuff like reverse engineering , creating cool looking websites ,quantum computing , 3D modelling and animation , object rendering , creating music and lately , playing Bandit games 👀.
 
