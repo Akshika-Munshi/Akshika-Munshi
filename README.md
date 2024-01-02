@@ -2,8 +2,8 @@
 
 
 <p align="center">
-<a href="mailto:akshikamunshi27@gmail.com"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/gmail_icon-icons.com_59877.png"></a>&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/HTB.png"></a>&nbsp;&nbsp;
+<a href="mailto:akshikamunshi27@gmail.com"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/gmail_icon-icons.com_59877.png"></a>&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/HTB.png"></a>&nbsp;&nbsp;
 
 </p>
 
@@ -18,10 +18,10 @@ I'm a 2nd year ELC engineering student , who is fasicnated with the world of Com
 > The quieter you become, the more you are able to hear.
 ---
 
-## Alright, Gameface == ON <img height=40 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/glasses_smile.gif">
+## Alright, Gameface == ON <img height=40 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/glasses_smile.gif">
 
-- whoami - I'm a <a href="https://youtu.be/8ev9ZX9J45A">Aspiring Red Teamer! <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/heck_panda.gif">
-- whereis   - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri </a><img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/study-assignment.gif">
+- whoami - I'm a <a href="https://youtu.be/8ev9ZX9J45A">Aspiring Red Teamer! <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/heck_panda.gif">
+- whereis   - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri </a><img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/study-assignment.gif">
 - file Akshika - I'm learning Reverse Engineering and Pwning
 - ls -al - I'm currently training under  <a href="https://bi0s.in/">teambi0s</a> 
 - What am i currently working on? - Levelling up / Overcoming my "Skill Issues"
