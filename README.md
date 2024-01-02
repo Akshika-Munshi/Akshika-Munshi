@@ -18,9 +18,9 @@ I'm a 2nd year ELC engineering student , who is fasicnated with the world of Com
 > The quieter you become, the more you are able to hear.
 ---
 
-## Alright, Gameface == ON <img height=40 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/glasses_smile.gif">
+##pwd <img height=40 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/glasses_smile.gif">
 
-- whoami - I'm a <a href="https://youtu.be/8ev9ZX9J45A">Aspiring Red Teamer! <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/heck_panda.gif">
+- whoami - I'm an Aspiring Red Teamer! <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/heck_panda.gif">
 - whereis   - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri </a><img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/study-assignment.gif">
 - file Akshika - I'm learning Reverse Engineering and Pwning
 - ls -al - I'm currently training under  <a href="https://bi0s.in/">teambi0s</a> 
