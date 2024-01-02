@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="mailto:akshikamunshi27@gmail.com"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/gmail_icon-icons.com_59877.png"></a>&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/res/HTB.png"></a>&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/HTB.png"></a>&nbsp;&nbsp;
 
 </p>
 
@@ -24,7 +24,7 @@ I'm a 2nd year ELC engineering student , who is fasicnated with the world of Com
 
 - whoami - I'm a <a href="https://youtu.be/8ev9ZX9J45A">Aspiring Red Teamer! <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/tree/main/asset/heck_panda.gif">
 - whereis   - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri </a><img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/tree/main/asset/study-assignment.gif">
-- file Akshika - I'm learning Reverse Engineering and Pwning
+- file Akshika - I'm learning Red Teaming 
 - ls -al - I'm currently training under  <a href="https://bi0s.in/">teambi0s</a> 
 - What am i currently working on? - Levelling up / Overcoming my "Skill Issues"
 - Any interests? - Basically, everything under and around the sun 
