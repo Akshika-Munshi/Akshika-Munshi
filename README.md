@@ -1,6 +1,6 @@
 # [Akshika Munshi](https://github.com/Akshika-Munshi)
 
-<h2 align="center">Hey there! I'm Adhithya aka Akshika, Nice to meet you!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h2>
+<h2 align="center">Hey there! I'm Akshika, Nice to meet you!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h2>
 
 - 👋 I'm a 2nd year ELC engineering student , who is fasicnated with the world of Computer Science and yet bash commands, enigmatic algorithm and holding up conversations with strangers seem to scare me. 
  
