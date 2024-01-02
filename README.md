@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="mailto:akshikamunshi27@gmail.com"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/tree/main/asset/gmail_icon-icons.com_59877.png"></a>&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/tree/main/assetHTB.png"></a>&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/tree/main/asset/HTB.png"></a>&nbsp;&nbsp;
 
 </p>
 
