@@ -1,15 +1,8 @@
-<!---# [Akshika Munshi](https://github.com/Akshika-Munshi)
 
-
-<p align="center">
-<a href="mailto:akshikamunshi27@gmail.com"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/gmail_icon-icons.com_59877.png"></a>&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/users/1576348><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/HTB.png"></a>&nbsp;&nbsp;
-
-</p>
 
 <h2 align="center">Hey there! I'm Akshika, Good to see you here!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h2>
 
-I'm a 2nd year ELC engineering student , who is fasicnated with the world of Computer Science interested in Red Teaming and Pentesting .🌱
+<!---#
 - <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset5912_headsetparrot.gif"> I'm currently learning ... more about everything ! Python , C , Javascript , Video Making and Editing  also ,about myself.
 - <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/4453_hanako_read.png"> I'm looking for help with <a href="https://www.makeareadme.com/">Making a better README.md , learning Web Pentesting 📫</a>
 - <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/9468_heartarrow_blue.gif"> Ask me about <a href="https://www.youtube.com/watch?v=v_fJ4fm0ewQ">Whats the next adventure?</a>
@@ -33,10 +26,21 @@ I'm a 2nd year ELC engineering student , who is fasicnated with the world of Com
 Akshika-Munshi/Akshika-Munshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-UNDER CONSTRUCTION
+
+
+- *pwd*     🌱   -I'm a 2nd year Electrical and Computer Engineering student interested in Red Teaming and Pentesting
+- *whoami*  <img height=25 src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/heck_panda.gif">-  I'm an Aspiring**Red Teamer!**  and Security Researcher
+- *whereis* 🏫   - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri 
+- *file* Akshika.exe 🥷- I'm exploring Web and Network Security
+- *ls -al*  -✌️ I'm also a member and mentor at bi0s Pentest 
+
 ---
-When action grows unprofitable, gather information; when information grows unprofitable, sleep.
-
-Ursula K. Le Guin, The Left Hand of Darkness
 
 
+
+Connect with me at:
+<p align="left">
+<a href="mailto:akshikamunshi27@gmail.com"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/gmail_icon-icons.com_59877.png"></a>
+<a href="https://app.hackthebox.com/users/1576348"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/HTB.png"></a>
+<a href="https://www.linkedin.com/in/akshika-5095ab249/"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/linkedin.png"></a>
+</p>
