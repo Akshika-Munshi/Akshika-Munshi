@@ -14,3 +14,5 @@ Connect with me through:
 <a href="https://app.hackthebox.com/users/1576348"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/HTB.png"></a>
 <a href="https://www.linkedin.com/in/akshika-5095ab249/"><img height="30" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/linkedin.png"></a>
 </p>
+<p align="right">
+Hakuna~Matata <img height="50" src="https://github.com/Akshika-Munshi/Akshika-Munshi/blob/main/asset/5912_headsetparrot.gif"></p>
